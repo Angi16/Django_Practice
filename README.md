@@ -1,6 +1,6 @@
 # Django_Practice
 
-This Repository consists of differents web applications made using Django 2.0.5
+This Repository consists of different web applications made using Django 2.0.5
 
 Following open source resources were used while developing them:
 
